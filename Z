@@ -23,8 +23,8 @@ class insert {
     {
   
     String input = "Very Good";
-    String newstring = "hi";
-    int position = 2;
+    String newstring = "Surya";
+    int position = 5;
   
     System.out.println("input: " + input);
     System.out.println("newstring: " + newstring);
